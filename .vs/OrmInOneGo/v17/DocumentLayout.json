@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmitr\\Exercism\\csharp\\orm-in-one-go\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4580512E-ECC8-4C40-8867-6B2538186D3B}|OrmInOneGo.csproj|c:\\users\\dmitr\\exercism\\csharp\\orm-in-one-go\\orminonego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4580512E-ECC8-4C40-8867-6B2538186D3B}|OrmInOneGo.csproj|solutionrelative:orminonego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4580512E-ECC8-4C40-8867-6B2538186D3B}|OrmInOneGo.csproj|c:\\users\\dmitr\\exercism\\csharp\\orm-in-one-go\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4580512E-ECC8-4C40-8867-6B2538186D3B}|OrmInOneGo.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrmInOneGo.cs",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\orm-in-one-go\\OrmInOneGo.cs",
+              "RelativeDocumentMoniker": "OrmInOneGo.cs",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\orm-in-one-go\\OrmInOneGo.cs",
+              "RelativeToolTip": "OrmInOneGo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:02:57.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\dmitr\\Exercism\\csharp\\orm-in-one-go\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\dmitr\\Exercism\\csharp\\orm-in-one-go\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-27T18:14:13.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
